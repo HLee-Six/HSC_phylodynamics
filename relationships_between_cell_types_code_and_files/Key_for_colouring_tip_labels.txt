@@ -1,0 +1,141 @@
+Sample	Source	source2	Cell_type	colour
+BMH78	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH91	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP292	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMP270	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMP75	Blood	Normal - blood	MEP	#E41A1C
+BMH96	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH76	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH3	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP58	Blood	Normal - blood	MEP	#E41A1C
+BMH39	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH35	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMPBHC1	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMH87	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH50	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP121	Bone marrow aspirate	Normal - bone marrow	CMP	#984EA3
+BMP344	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH84	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH17	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP74	Blood	Normal - blood	MEP	#E41A1C
+BMH19	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH33	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH34	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH81	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP362	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH73	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH97	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH57	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH44	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP214	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH83	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH77	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP194	Bone marrow aspirate	Normal - bone marrow	CMP	#984EA3
+BMH42	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP336	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH38	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMPBHC26	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMP186	Bone marrow aspirate	Normal - bone marrow	CMP	#984EA3
+BMH99	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP310	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMP99	Blood	Normal - blood	MEP	#E41A1C
+BMH13	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH98	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH80	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH12	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMPBHC12	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMP305	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH100	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP262	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH2	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMPBHC17	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMPBHC40	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMH7	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP265	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMP218	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH90	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP343	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH65	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH23	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP19	Blood	Normal - blood	GMP	#FF7F00
+BMP14	Blood	Normal - blood	GMP	#FF7F00
+BMH55	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP330	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMP337	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMPBHC14	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMP2	Blood	Normal - blood	GMP	#FF7F00
+BMP329	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH66	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP30	Blood	Normal - blood	GMP	#FF7F00
+BMP213	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMPBHC33	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMP291	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH41	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH88	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH52	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP327	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMPBHC28	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMP76	Blood	Normal - blood	MEP	#E41A1C
+BMP256	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH30	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP314	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMP67	Blood	Normal - blood	MEP	#E41A1C
+BMH62	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH92	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMPBHC18	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMH25	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH5	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH29	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP43	Blood	Normal - blood	GMP	#FF7F00
+BMH63	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH56	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP316	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH60	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMPBHC4	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMH15	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP324	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMP378	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMPBHC23	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMH72	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP15	Blood	Normal - blood	GMP	#FF7F00
+BMH71	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP184	Bone marrow aspirate	Normal - bone marrow	CMP	#984EA3
+BMP20	Blood	Normal - blood	GMP	#FF7F00
+BMPBHC21	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMP234	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMP245	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMP251	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMP361	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH58	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP356	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH86	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP308	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH22	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMPBHC35	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMH89	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH37	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMPBHC31	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMPBHC36	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMH31	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH93	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH51	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP83	Blood	Normal - blood	MEP	#E41A1C
+BMP86	Blood	Normal - blood	MEP	#E41A1C
+BMH85	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP312	Bone marrow aspirate	Normal - bone marrow	MEP	#E41A1C
+BMH79	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH94	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH32	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH26	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH59	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH27	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMP141	Bone marrow aspirate	Normal - bone marrow	CMP	#984EA3
+BMP9	Blood	Normal - blood	GMP	#FF7F00
+BMH11	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH18	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH10	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMPBHC2	Peripheral blood	Normal - blood	HSC from periph bld	#4DAF4A
+BMH49	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH28	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH67	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
+BMH8	Bone marrow aspirate	Normal - bone marrow	HSC	#377EB8
